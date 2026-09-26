@@ -74,5 +74,5 @@ model/*.joblib
 model/*.bin
 
 # Generated Predictions & Output Artifacts
-output/*.tsv
+
 *.zip
