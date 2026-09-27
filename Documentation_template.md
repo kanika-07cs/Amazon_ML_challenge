@@ -1,4 +1,4 @@
-# Amazon ML Challenge 2026: Business Entity Resolution Solution Document
+# Amazon ML Challenge 2026: Business Entity Resolution Solution Document  
 
 ## 1. Executive Summary
 This document details our Machine Learning Solution for the **Amazon ML Challenge 2026: Business Entity Resolution**. 
